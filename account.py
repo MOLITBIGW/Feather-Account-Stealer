@@ -1,7 +1,6 @@
 import os
 import requests
 
-# btw flagging in virustotal 😲 [but bypassing uncoverit]
 def kasuto():
     try:
         username = os.getenv('USERNAME')
